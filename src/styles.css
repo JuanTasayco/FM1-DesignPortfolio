@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+:root {
+    --violeta: rgba(117, 92, 222);
+    --amarillo: rgba(246, 165, 96);
+    --rosado: rgba(243, 158, 158);
+    --naranja: rgba(235, 117, 101);
+    --celeste: rgba(97, 196, 183);
+    --guinda: rgba(85, 32, 73);
+    --black: rgba(3, 3, 3);
+    --gris: rgba(122, 116, 110);
+    --cream: rgba(255, 247, 240);
+    --jakartaBold: 'Plus Jakarta Sans', sans-serif;
+    --textLarge: 56px;
+    --textMedium: 40px;
+    --textSmall: 32px;
+    --textParrafo : 18px;
+}

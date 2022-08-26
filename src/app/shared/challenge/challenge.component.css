@@ -1,0 +1,116 @@
+.Container-Principal {
+    font-family: var(--jakartaBold);
+    background: var(--cream)
+}
+
+.Container-header button:hover {
+    background: var(--violeta);
+  
+}
+.Container-button {
+    padding: -50px 0;
+}
+
+.Container-h1 {
+    font-size: var(--textLarge);
+}
+
+.Container-p {
+    font-size: var(--textParrafo);
+    max-width: 45rem;
+    color: var(--gris);
+}
+
+
+.Container-h2 {
+    font-size: var(--textMedium);
+    max-width: 34rem;
+}
+
+.Container-section2 .Container-row button {
+    background: var(--naranja)
+}
+
+.Container-section2 .Container-row button:hover {
+    background: var(--amarillo);
+   
+}
+
+
+.Container-girl {
+    background: var(--celeste);
+    border-radius: 50%;
+    max-height: 398px;
+}
+
+.Container-girl img:first-child {
+    position: relative;
+    z-index: 10;
+}
+
+.Container-girl img:nth-child(2) {
+    margin-top: 3rem;
+}
+
+.Container-girl img:nth-child(3) {
+    z-index: 1;
+}
+
+
+
+.Carrousel {
+    width: 100%;
+    max-width: 100em;
+   
+}
+
+.Carrousel-container {
+    width: 165%;
+    transition: all .5s ease;
+    max-height:25rem;
+
+}
+
+
+
+.Carrousel-img {
+    width: calc(100%/3);
+    background-color: lime;
+    min-height: 10vh;
+    max-height: 22rem;
+    max-width: 40rem;
+    transform:translateX(-105%)
+}
+
+.Carrousel-button  {
+    padding:1rem;
+    background: var(--black)
+}
+
+.Carrousel-button:hover{
+    background: var(--violeta);
+    border:none;
+}
+
+.Container-section3 h3 {
+    color: var(--cream);
+    font-size: var(--textSmall);
+}
+
+.Container-section3 {
+    background: var(--black);
+
+}
+.Container-section3 button{
+    background:var(--naranja)
+}
+
+.Container-section3 button:hover{
+    background:var(--amarillo);
+    border:none;
+}
+
+.Container-footer button:hover{
+    background:var(--violeta);
+   
+}
