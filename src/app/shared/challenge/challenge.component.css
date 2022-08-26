@@ -75,7 +75,6 @@
 
 .Carrousel-img {
     width: calc(100%/3);
-    background-color: lime;
     min-height: 10vh;
     max-height: 22rem;
     max-width: 40rem;
